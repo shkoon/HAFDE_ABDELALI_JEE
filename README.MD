@@ -9,11 +9,11 @@
         <ul><li><a href="imetier">Interface IMetier</a></li>
         <li><a href="implmetier">Class MetierImpl</a></li></ul>
  </li>
-<li><a href="pres">Couche presentation</a>
-        <ul><li><a href="pres1">Class Presentation</a></li>
-        <li><a href="pres2">Class Pres2</a></li>
-        <li><a href="presxml">Class PresntationSpringXml</a></li>
-        <li><a href="presanno">Class PresSpringAnnotations</a></li></ul>
+<li><a href="#pres">Couche presentation</a>
+        <ul><li><a href="#pres1">Class Presentation</a></li>
+        <li><a href="#pres2">Class Pres2</a></li>
+        <li><a href="#presxml">Class PresntationSpringXml</a></li>
+        <li><a href="#presanno">Class PresSpringAnnotations</a></li></ul>
     </li>
     <li><a href="ext">Couche ext</a>
         <ul><li><a href="impl2">Class DaoImpl2</a></li>
