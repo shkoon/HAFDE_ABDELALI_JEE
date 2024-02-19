@@ -1,8 +1,8 @@
 <h2>Table de matière</h2>
 <ul>
-    <li><a href="">Couche Dao</a> 
-        <ul><li><a href="">Interface IDao</a></li>
-        <li><a href="">Class DaoImpl</a></li></ul>
+    <li><a href="#dao">Couche Dao</a> 
+        <ul><li><a href="#idao">Interface IDao</a></li>
+        <li><a href="#impldao">Class DaoImpl</a></li></ul>
     </li>
    
 <li><a href="">Couche metier</a>
@@ -22,8 +22,8 @@
 
 <h2>Injection des dépendances et inversion de controle</h2>
 <img src="captures/TP_IOC.png">
-<h2>Couche Dao</h2>
-<h3>Interface IDao</h3>
+<h2 id="dao">Couche Dao</h2>
+<h3 id="idao">Interface IDao</h3>
 <img src="captures/Idao.PNG">
-<h3>Class DaoImpl</h3>
+<h3 id="impldao">Class DaoImpl</h3>
 <img src="captures/DaoImpl.PNG">
