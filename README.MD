@@ -1,4 +1,4 @@
-<h2>Table de matière</h2>
+<h2>Table des matières</h2>
 <ul>
     <li><a href="#dao">Couche Dao</a> 
         <ul><li><a href="#idao">Interface IDao</a></li>
