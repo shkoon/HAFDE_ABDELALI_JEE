@@ -15,16 +15,12 @@ public class Pres2 {
             String daoClassName=scanner.nextLine();
             Class cDao=Class.forName(daoClassName);
             IDao dao=(IDao)cDao.newInstance();
-
             String metierClassName=scanner.nextLine();
             Class cMetier=Class.forName(metierClassName);
             IMetier metier=(IMetier) cMetier.newInstance();
-
             Method method=cMetier.getMethod("setDao",IDao.class);
             method.invoke(metier,dao);
-
             System.out.println("Résultat="+metier.calcul());
-
         } catch (Exception e) {
             e.printStackTrace();
         }
