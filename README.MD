@@ -24,3 +24,10 @@
 <img src="captures/TP_IOC.png">
 <h2>Couche Dao</h2>
 <h3>Interface IDao</h3>
+ <p><code>package dao;
+
+public interface IDao {
+
+     double getData();
+}
+</code></p>
