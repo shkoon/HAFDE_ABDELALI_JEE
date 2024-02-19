@@ -15,9 +15,9 @@
         <li><a href="#presxml">Class PresntationSpringXml</a></li>
         <li><a href="#presanno">Class PresSpringAnnotations</a></li></ul>
     </li>
-    <li><a href="ext">Couche ext</a>
-        <ul><li><a href="impl2">Class DaoImpl2</a></li>
-        <li><a href="implvws">Class DaoImplVWS</a></li></ul>
+    <li><a href="#ext">Couche ext</a>
+        <ul><li><a href="#impl2">Class DaoImpl2</a></li>
+        <li><a href="#implvws">Class DaoImplVWS</a></li></ul>
 </li></ul>
 
 <h2>Injection des dépendances et inversion de controle</h2>
@@ -44,3 +44,8 @@
 <h3 id="presanno">Presentation Annotations</h3>
 <img src="captures/presanno.PNG">
 
+<h2 id="ext">Couche Ext</h2>
+<h3 id="impl2">Class DaoImpl2</h3>
+<img src="captures/impl2.PNG">
+<h3 id="implvws">Class DaoImplVWS</h3>
+<img src="captures/implvws.PNG">
