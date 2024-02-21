@@ -10,10 +10,10 @@
         <li><a href="implmetier">Class MetierImpl</a></li></ul>
  </li>
 <li><a href="#pres">Couche presentation</a>
-        <ul><li><a href="#pres1">Class Presentation</a></li>
-        <li><a href="#pres2">Class Pres2</a></li>
-        <li><a href="#presxml">Class PresntationSpringXml</a></li>
-        <li><a href="#presanno">Class PresSpringAnnotations</a></li></ul>
+        <ul><li><a href="#pres1">Class Presentation avec instanciation statique </a></li>
+        <li><a href="#pres2">Class avec instanciation dynamique</a></li>
+        <li><a href="#presxml">Class Presntation avec Spring Xml</a></li>
+        <li><a href="#presanno">Class Presentaion avec Annotations</a></li></ul>
     </li>
     <li><a href="#ext">Couche ext</a>
         <ul><li><a href="#impl2">Class DaoImpl2</a></li>
@@ -35,9 +35,9 @@
 <img src="captures/metierimpl.PNG">
 
 <h2 id="pres">Couche Presentation</h2>
-<h3 id="pres1">Presentation</h3>
+<h3 id="pres1">Instanciation statique</h3>
 <img src="captures/pres1.PNG">
-<h3 id="pres2">Presentation 2</h3>
+<h3 id="pres2">Instanciation dynamique</h3>
 <img src="captures/pres2.PNG">
 <h3 id="presxml">Presentation Spring Xml</h3>
 <img src="captures/presxml.PNG">
